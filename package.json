@@ -10,7 +10,7 @@
   },
   "resolutions": {
     "angular": "1.6.4",
-    "lodash": "4.X" // or whatever you want
+    "lodash": "4.X"
   },
   "devDependencies": {
     "bower": "^1.7.7",
