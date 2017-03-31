@@ -9,7 +9,7 @@
     "node": "6.9.4"
   },
   "resolutions": {
-    "angular": "1.6.4",
+    "angular": "1.5.0",
     "lodash": "4.X"
   },
   "devDependencies": {
