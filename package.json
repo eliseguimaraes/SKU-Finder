@@ -49,5 +49,12 @@
     "karma-jasmine": "^0.3.8",
     "karma-junit-reporter": "^0.4.1",
     "protractor": "^4.0.9"
+  },
+  "overrides": {
+    "problem-library-name": {
+      "dependencies": {
+        "lodash": "4.X"
+      }
+    }
   }
 }
