@@ -1,0 +1,10 @@
+Passos para instalação do programa:
+
+1) Instalar o Node.JS
+2) Instalar o Git
+3) No terminal, navegar até a raiz do programa e executar o comando 'npm install'
+
+
+Passos para execução
+1) No terminal, navegar até a raiz do projeto e executar o comando 'npm start'
+2) Abrir um browser no endereço 'localhost:8000'
