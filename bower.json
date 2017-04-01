@@ -14,5 +14,8 @@
     "ng-csv": "^0.3.6",
     "angular-sanitize": "^1.6.3",
     "json-export-excel": "ng-json-export-excel#^1.0.2"
+  },
+  "resolutions": {
+    "angular": "1.6.4"
   }
 }
